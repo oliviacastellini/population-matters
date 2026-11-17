@@ -1,7 +1,62 @@
+
 ---
-title: "Olivia Castellini | Science and Stories"
+page-layout: full
 ---
 
-This is a Quarto website.
+::: {.hero}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+EPIGENETICS · EPIDEMIOLOGY · SCIENCE COMMUNICATION
+
+# Science is more than data. It's a story worth telling.
+
+Exploring how biology, environment and experiences
+shape who we are.
+
+[Explore my stories](stories.qmd){.hero-button}
+
+:::
+
+::: {.home-section}
+
+## Science Stories
+
+Making complex science accessible, one story at a time.
+
+::: {.story-grid}
+
+::: {.story-card}
+
+### Your DNA Is Not Your Fate
+
+**Epigenetics · Part 1**
+
+An introduction to the fascinating world of epigenetics.
+
+:::
+
+::: {.story-card}
+
+### Can the World Get Under Our Skin?
+
+**Epigenetics · Part 2**
+
+How our environment and experiences can leave
+marks on our DNA.
+
+:::
+
+:::
+
+:::
+
+::: {.home-section}
+
+## Beyond the Stories
+
+Research, data and scientific projects exploring
+human health.
+
+[Explore my projects](projects.qmd)
+
+:::
+
