@@ -1,1 +1,43 @@
 /* css styles */
+
+/* Colores principales */
+:root {
+  --mint-dark: #303B38;
+  --mint-light: #eaf4ef;
+  --background: #ffffff;
+}
+
+/* Fondo general */
+body {
+  background-color: var(--background);
+}
+
+/* Títulos */
+h1, h2, h3 {
+  color: var(--mint-dark);
+}
+
+/* Enlaces */
+a {
+  color: var(--mint-dark);
+}
+
+/* Imágenes */
+main img {
+  border-radius: 10px;
+}
+
+/* Espacio entre párrafos */
+p {
+  line-height: 1.8;
+}
+
+.navbar {
+  background-color: #F8F7F2 !important;
+  border-bottom: 1px solid #E6E8E5;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #376b60 !important;
+}
