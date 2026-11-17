@@ -1,0 +1,7 @@
+
+---
+title: "Proyectos"
+lang: es
+---
+
+Una selección de mis proyectos de investigación, análisis de datos y visualización científica.

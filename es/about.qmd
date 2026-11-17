@@ -1,0 +1,7 @@
+
+---
+title: "Sobre mí"
+lang: es
+---
+
+Soy investigadora especializada en epigenética y epidemiología, con un interés especial por la comunicación científica y por acercar la investigación biomédica a la sociedad.

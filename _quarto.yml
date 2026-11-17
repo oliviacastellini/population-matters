@@ -1,20 +1,30 @@
+
 project:
   type: website
 
 website:
   title: "Olivia Castellini | Science and Stories"
+
   navbar:
+    background: light
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "Stories"
+        href: stories.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "About"
+        href: about.qmd
+
+    right:
+      - text: "EN"
+        href: index.qmd
+      - text: "ES"
+        href: es/index.qmd
 
 format:
   html:
-    theme:
-      - minty
+    theme: minty
     css: styles.css
     toc: true
-
-
-

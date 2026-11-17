@@ -1,0 +1,62 @@
+
+---
+page-layout: full
+lang: es
+---
+
+::: {.hero}
+
+EPIGENÉTICA · EPIDEMIOLOGÍA · COMUNICACIÓN CIENTÍFICA
+
+# La ciencia es mucho más que datos. Es una historia que merece ser contada.
+
+Explorando cómo la biología, el entorno y nuestras
+experiencias nos hacen ser quienes somos.
+
+[Explora mis artículos](stories.qmd){.hero-button}
+
+:::
+
+::: {.home-section}
+
+## Historias de ciencia
+
+Haciendo accesible la ciencia compleja, una historia cada vez.
+
+::: {.story-grid}
+
+::: {.story-card}
+
+### Tu ADN no determina tu destino
+
+**Epigenética · Parte 1**
+
+Una introducción al fascinante mundo de la epigenética.
+
+:::
+
+::: {.story-card}
+
+### ¿Puede nuestro entorno dejar huella en nosotros?
+
+**Epigenética · Parte 2**
+
+Cómo nuestro entorno y nuestras experiencias
+pueden dejar marcas en nuestro ADN.
+
+:::
+
+:::
+
+:::
+
+::: {.home-section}
+
+## Más allá de las historias
+
+Investigación, datos y proyectos científicos
+para comprender mejor la salud humana.
+
+[Explora mis proyectos](projects.qmd)
+
+:::
