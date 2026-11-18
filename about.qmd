@@ -12,7 +12,7 @@ page-layout: full
 
 ::: {.about-photo}
 
-![Olivia Castellini](images/about/profile.jpg)
+![Olivia Castellini-Pérez,PhD](images/about/profile.jpg)
 
 :::
 
