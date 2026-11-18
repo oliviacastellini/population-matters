@@ -1,89 +1,118 @@
-/* css styles */
 
-/* Colores principales */
+/* =========================================
+   OLIVIA CASTELLINI | SCIENCE AND STORIES
+   ========================================= */
+
+/* COLORES ORIGINALES */
+
 :root {
   --mint-dark: #303B38;
   --mint-light: #eaf4ef;
   --background: #ffffff;
+  --cream: #F8F7F2;
+  --mint-green: #376b60;
+  --text-secondary: #53625B;
+  --border-soft: #E6E8E5;
 }
 
-/* Fondo general */
+/* GENERAL */
+
 body {
   background-color: var(--background);
+  color: var(--mint-dark);
 }
 
-/* Títulos */
 h1, h2, h3 {
   color: var(--mint-dark);
 }
 
-/* Enlaces */
 a {
   color: var(--mint-dark);
 }
 
-/* Imágenes */
-main img {
-  border-radius: 10px;
-}
-
-/* Espacio entre párrafos */
 p {
   line-height: 1.8;
 }
 
+main img {
+  border-radius: 10px;
+}
+
+/* NAVIGATION BAR */
+
 .navbar {
-  background-color: #F8F7F2 !important;
-  border-bottom: 1px solid #E6E8E5;
+  background-color: var(--cream) !important;
+  border-bottom: 1px solid var(--border-soft);
 }
 
 .navbar .navbar-brand,
 .navbar .nav-link {
-  color: #376b60 !important;
+  color: var(--mint-green) !important;
 }
 
+/* =========================================
+   HOMEPAGE HERO
+   ========================================= */
 
-/* PORTADA PRINCIPAL */
-
-.hero {
-  background-color: #F8F7F2;
+.hero-home {
+  background-color: var(--cream);
   padding: 110px 12%;
   text-align: center;
 }
 
-.hero h1 {
+.hero-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.eyebrow {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+  color: var(--mint-green);
+}
+
+.hero-home h1 {
   font-family: Georgia, serif;
   font-size: clamp(2.5rem, 5vw, 4.5rem);
+  font-weight: 400;
   line-height: 1.15;
-  color: #303B38;
+  color: var(--mint-dark);
   max-width: 900px;
   margin: 25px auto;
 }
 
-.hero p {
-  color: #53625B;
+.hero-home p {
+  color: var(--text-secondary);
   font-size: 1.15rem;
   max-width: 700px;
   margin: 20px auto;
-  line-height: 1.7;
+  line-height: 1.8;
 }
+
+/* BUTTONS */
 
 .hero-button {
   display: inline-block;
   margin-top: 20px;
   padding: 12px 28px;
-  border: 1px solid #303B38;
+  border: 1px solid var(--mint-dark);
   border-radius: 30px;
-  color: #303B38;
+  color: var(--mint-dark);
   text-decoration: none;
+  transition: background-color 0.2s ease,
+              color 0.2s ease;
 }
 
 .hero-button:hover {
-  background: #303B38;
+  background: var(--mint-dark);
   color: white;
 }
 
-/* SECCIONES */
+/* =========================================
+   HOMEPAGE SECTIONS
+   ========================================= */
 
 .home-section {
   max-width: 1100px;
@@ -93,11 +122,15 @@ p {
 
 .home-section h2 {
   font-family: Georgia, serif;
-  font-size: 2.2rem;
-  color: #303B38;
+  font-size: clamp(2rem, 4vw, 2.8rem);
+  font-weight: 400;
+  color: var(--mint-dark);
+  margin: 15px 0;
 }
 
-/* ARTÍCULOS */
+/* =========================================
+   SCIENCE STORIES
+   ========================================= */
 
 .story-grid {
   display: grid;
@@ -107,24 +140,198 @@ p {
 }
 
 .story-card {
-  background: #F8F7F2;
+  background: var(--cream);
   padding: 35px;
   border-radius: 12px;
 }
 
-.story-card h3 {
-  font-family: Georgia, serif;
-  color: #303B38;
+.story-category {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  color: var(--mint-green);
 }
 
-/* MÓVILES */
+.story-card h3 {
+  font-family: Georgia, serif;
+  font-size: 1.65rem;
+  font-weight: 400;
+  color: var(--mint-dark);
+  margin: 18px 0;
+}
+
+.story-card p {
+  color: var(--text-secondary);
+  line-height: 1.7;
+}
+
+/* =========================================
+   RESEARCH & DATA
+   ========================================= */
+
+.research-section {
+  border-top: 1px solid var(--border-soft);
+  padding-top: 70px;
+}
+
+.text-link {
+  color: var(--mint-green);
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.text-link:hover {
+  color: var(--mint-dark);
+}
+
+/* =========================================
+   RESPONSIVE DESIGN
+   ========================================= */
 
 @media (max-width: 768px) {
-  .hero {
+
+  .hero-home {
     padding: 75px 25px;
+  }
+
+  .hero-home h1 {
+    font-size: 2.5rem;
+  }
+
+  .home-section {
+    margin: 65px auto;
   }
 
   .story-grid {
     grid-template-columns: 1fr;
+  }
+
+  .story-card {
+    padding: 28px;
+  }
+}
+
+/* TAMAÑO DE LAS TARJETAS DE SERIES */
+.series-grid { grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 320px)); }
+.series-card { width: 100%; max-width: 320px; }
+.series-image { display: block; width: 100%; height: auto; border-radius: 0 !important; }
+
+
+/* =========================================
+   ABOUT ME / SOBRE MÍ
+   ========================================= */
+
+.about-hero {
+  background-color: var(--cream);
+  padding: 100px 12%;
+  text-align: center;
+}
+
+.about-hero h1 {
+  font-family: Georgia, serif;
+  font-size: clamp(2.8rem, 5vw, 4.5rem);
+  font-weight: 400;
+  color: var(--mint-dark);
+  margin: 25px auto;
+}
+
+.about-hero p {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: var(--text-secondary);
+  max-width: 720px;
+  margin: 20px auto;
+}
+
+.about-section {
+  max-width: 800px;
+  margin: 85px auto;
+  padding: 0 25px;
+}
+
+.about-section h2 {
+  font-family: Georgia, serif;
+  font-size: 2.2rem;
+  font-weight: 400;
+  color: var(--mint-dark);
+  margin-bottom: 25px;
+}
+
+.about-section p {
+  color: var(--text-secondary);
+  font-size: 1.05rem;
+  line-height: 1.9;
+  margin-bottom: 22px;
+}
+
+.about-connect {
+  border-top: 1px solid var(--border-soft);
+  padding-top: 60px;
+  margin-bottom: 100px;
+}
+
+/* MOBILE */
+
+@media (max-width: 768px) {
+  .about-hero {
+    padding: 75px 25px;
+  }
+
+  .about-section {
+    margin: 60px auto;
+  }
+
+  .about-section h2 {
+    font-size: 1.9rem;
+  }
+}
+
+
+/* ABOUT - FOTO Y PRESENTACIÓN */
+
+.about-intro {
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: 65px;
+  align-items: center;
+  max-width: 1050px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.about-photo img {
+  width: 100%;
+  max-width: 320px;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+}
+
+.about-text h1 {
+  text-align: left;
+}
+
+.about-text p {
+  text-align: left;
+}
+
+/* VERSIÓN MÓVIL */
+
+@media (max-width: 768px) {
+  .about-intro {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+  .about-photo img {
+    max-width: 280px;
+    margin: 0 auto;
+  }
+
+  .about-text,
+  .about-text h1,
+  .about-text p {
+    text-align: center;
   }
 }

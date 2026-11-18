@@ -1,5 +1,66 @@
+
 ---
-title: "About"
+title: "About Me"
+toc: false
+page-layout: full
 ---
 
-About this site
+
+::: {.about-hero}
+
+::: {.about-intro}
+
+::: {.about-photo}
+
+![Olivia Castellini](images/about/profile.jpg)
+
+:::
+
+::: {.about-text}
+
+<span class="eyebrow">A LITTLE ABOUT ME</span>
+
+# Hi, I'm Olivia.
+
+I'm a biomedical researcher curious about what makes us human, and passionate about making science accessible beyond the scientific community.
+
+:::
+
+:::
+
+:::
+
+
+::: {.about-section}
+
+## From curiosity to research
+
+My scientific journey has taken me through genetics, epigenetics and epidemiology, exploring how our biology, environment and experiences interact to shape human health.
+
+I have a PhD in Biomedicine, and my research has focused on understanding the molecular mechanisms behind human health and disease, from autoimmune conditions to population-based studies.
+
+But beyond the methods, the datasets and the results, what has always interested me most are the questions we ask, the people behind the data and what our discoveries actually mean.
+
+:::
+
+::: {.about-section}
+
+## Beyond the data
+
+I believe science is more than producing results or publishing papers. It's about being curious, questioning what we know and making knowledge meaningful.
+
+I'm particularly interested in how we communicate science, whose experiences are represented in research and how we can make scientific knowledge more accessible and inclusive.
+
+This space brings together those interests: science, data, storytelling and the questions that keep me curious.
+
+:::
+
+::: {.about-section .about-connect}
+
+## Let's connect
+
+Whether you're interested in science, communication or simply curious about the topics I explore, I'd love to connect.
+
+[Find me on LinkedIn](https://www.linkedin.com/){.text-link}
+
+:::

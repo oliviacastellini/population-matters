@@ -1,7 +1,67 @@
 
 ---
 title: "Sobre mí"
+toc: false
+page-layout: full
 lang: es
 ---
 
-Soy investigadora especializada en epigenética y epidemiología, con un interés especial por la comunicación científica y por acercar la investigación biomédica a la sociedad.
+
+::: {.about-hero}
+
+::: {.about-intro}
+
+::: {.about-photo}
+
+![Olivia Castellini](../images/about/profile.jpg)
+
+:::
+
+::: {.about-text}
+
+<span class="eyebrow">UN POCO SOBRE MÍ</span>
+
+# ¡Hola! Soy Olivia.
+
+Soy investigadora biomédica, curiosa por entender qué nos hace humanos y apasionada por acercar la ciencia más allá de la comunidad científica.
+
+:::
+
+:::
+
+:::
+
+
+::: {.about-section}
+
+## De la curiosidad a la investigación
+
+Mi trayectoria científica me ha llevado a explorar la genética, la epigenética y la epidemiología, tratando de comprender cómo nuestra biología, el entorno y nuestras experiencias interactúan para influir en nuestra salud.
+
+Soy doctora en Biomedicina y mi investigación se ha centrado en comprender los mecanismos moleculares que intervienen en la salud y la enfermedad, desde las enfermedades autoinmunes hasta los estudios de grandes poblaciones.
+
+Pero, más allá de los métodos, los datos y los resultados, lo que siempre me ha interesado son las preguntas que nos hacemos, las personas que hay detrás de los datos y lo que realmente significan nuestros descubrimientos.
+
+:::
+
+::: {.about-section}
+
+## Más allá de los datos
+
+Creo que la ciencia es mucho más que obtener resultados o publicar artículos. Es curiosidad, cuestionar lo que creemos saber y conseguir que el conocimiento tenga sentido.
+
+Me interesa especialmente cómo comunicamos la ciencia, qué experiencias están representadas en la investigación y cómo podemos hacer que el conocimiento científico sea más accesible e inclusivo.
+
+Este espacio reúne todos esos intereses: ciencia, datos, historias y las preguntas que siguen despertando mi curiosidad.
+
+:::
+
+::: {.about-section .about-connect}
+
+## Hablemos
+
+Si te interesa la ciencia, la comunicación o simplemente tienes curiosidad por los temas que comparto, estaré encantada de conectar.
+
+[Encuéntrame en LinkedIn](https://www.linkedin.com/){.text-link}
+
+:::

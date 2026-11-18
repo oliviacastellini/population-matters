@@ -1,17 +1,17 @@
 
 ---
 page-layout: full
+toc: false
 lang: es
 ---
 
-::: {.hero}
+::: {.hero-home}
 
-EPIGENÉTICA · EPIDEMIOLOGÍA · COMUNICACIÓN CIENTÍFICA
+<span class="eyebrow">EPIGENÉTICA · EPIDEMIOLOGÍA · COMUNICACIÓN CIENTÍFICA</span>
 
-# La ciencia es mucho más que datos. Es una historia que merece ser contada.
+# Explorando la ciencia de lo que nos hace humanos.
 
-Explorando cómo la biología, el entorno y nuestras
-experiencias nos hacen ser quienes somos.
+Más allá de los datos: historias, investigación y perspectivas sobre nuestra biología.
 
 [Explora mis artículos](stories.qmd){.hero-button}
 
@@ -19,44 +19,53 @@ experiencias nos hacen ser quienes somos.
 
 ::: {.home-section}
 
+<span class="eyebrow">DESCUBRE Y EXPLORA</span>
+
 ## Historias de ciencia
 
-Haciendo accesible la ciencia compleja, una historia cada vez.
-
-::: {.story-grid}
-
-::: {.story-card}
-
-### Tu ADN no determina tu destino
-
-**Epigenética · Parte 1**
-
-Una introducción al fascinante mundo de la epigenética.
-
-:::
-
-::: {.story-card}
-
-### ¿Puede nuestro entorno dejar huella en nosotros?
-
-**Epigenética · Parte 2**
-
-Cómo nuestro entorno y nuestras experiencias
-pueden dejar marcas en nuestro ADN.
-
-:::
-
-:::
+Explorando las preguntas, los descubrimientos y las historias detrás de nuestra biología, serie a serie.
 
 :::
 
 ::: {.home-section}
 
-## Más allá de las historias
 
-Investigación, datos y proyectos científicos
-para comprender mejor la salud humana.
+:::: {.series-grid}
 
-[Explora mis proyectos](projects.qmd)
+::::: {.series-card}
+
+[![Tu ADN no determina tu destino](../images/series/your-dna-is-not-your-fate.png){.series-image}](stories.qmd)
+
+:::::: {.series-content}
+
+<span class="story-category">SERIE 01 · EPIGENÉTICA</span>
+
+### Tu ADN no determina tu destino
+
+¿Qué puede contarnos la epigenética sobre nuestra salud,
+nuestras experiencias y la biología que nos hace humanos?
+
+[Explora la serie →](stories.qmd){.text-link}
+
+::::::
+
+:::::
+
+::::
 
 :::
+
+::: {.home-section .research-section}
+
+<span class="eyebrow">MÁS ALLÁ DE LAS HISTORIAS</span>
+
+## Investigación y datos
+
+Detrás de cada historia científica hay preguntas, datos y descubrimientos.
+
+Explora mis proyectos de investigación en epigenética, epidemiología y salud poblacional.
+
+[Explora mis proyectos →](projects.qmd){.text-link}
+
+:::
+

@@ -1,62 +1,74 @@
 
 ---
 page-layout: full
+toc: false
 ---
 
-::: {.hero}
+::: {.hero-home}
 
-EPIGENETICS · EPIDEMIOLOGY · SCIENCE COMMUNICATION
+::: {.hero-content}
 
-# Science is more than data. It's a story worth telling.
+<span class="eyebrow">EPIGENETICS · EPIDEMIOLOGY · SCIENCE COMMUNICATION</span>
 
-Exploring how biology, environment and experiences
-shape who we are.
+# Exploring the science of being human.
+
+Beyond the data: stories, research and perspectives
+on the biology of who we are.
 
 [Explore my stories](stories.qmd){.hero-button}
 
 :::
 
-::: {.home-section}
+:::
+
+
+:::: {.home-section}
+
+<span class="eyebrow">DISCOVER & EXPLORE</span>
 
 ## Science Stories
 
-Making complex science accessible, one story at a time.
+Exploring the questions, discoveries and stories
+behind human biology, one series at a time.
 
-::: {.story-grid}
+::::: {.series-grid}
 
-::: {.story-card}
+:::::: {.series-card}
+
+[![Your DNA Is Not Your Fate](images/series/your-dna-is-not-your-fate.png){.series-image}](stories.qmd)
+
+::::::: {.series-content}
+
+<span class="story-category">SERIES 01 · EPIGENETICS</span>
 
 ### Your DNA Is Not Your Fate
 
-**Epigenetics · Part 1**
+What can epigenetics tell us about our health,
+our experiences and the biology that makes us human?
 
-An introduction to the fascinating world of epigenetics.
+[Explore the series →](stories.qmd){.text-link}
 
-:::
+:::::::
 
-::: {.story-card}
+::::::
 
-### Can the World Get Under Our Skin?
+:::::
 
-**Epigenetics · Part 2**
+::::
 
-How our environment and experiences can leave
-marks on our DNA.
 
-:::
+::: {.home-section .research-section}
 
-:::
+<span class="eyebrow">BEYOND THE STORIES</span>
 
-:::
+## Research & Data
 
-::: {.home-section}
+Behind every scientific story, there are questions,
+data and discoveries.
 
-## Beyond the Stories
+Explore my research projects in epigenetics,
+epidemiology and population health.
 
-Research, data and scientific projects exploring
-human health.
-
-[Explore my projects](projects.qmd)
+[Explore my projects](projects.qmd){.text-link}
 
 :::
-
