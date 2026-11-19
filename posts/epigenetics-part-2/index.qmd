@@ -48,7 +48,7 @@ That’s when epigenetics comes into play once again.
 
 Continuing with the nature vs nurture debate, in 2005, Mario Fraga and colleagues studied around 40 identical twins aged from 3 to 74 years old. It has been discovered that younger twins have similar epigenetic characteristics, however, aged twins have more differences in epigenetic modifications. This means that as time passes hypothetically one twin could develop a disease while the other don’t. Differences were also linked to the amount of time they have spent apart.
 
-![Epigenetic differences with age in identical twins](images/figure1.jpeg){width=85% fig-align="center"}
+![Epigenetic differences with age in identical twins](images/twins.png){width=85% fig-align="center"}
 
 That said, this does not mean that specific life experiences lead exactly to those differences. These epigenetic patterns can change through other biological processes as well and knowing which one is influencing is one of the challenges for researchers.
 Obviously, there are other ways of studying the influence of the environment on the organism, not only with twins. One could study people during their entire life span, comparing them under various environments or looking at the connection between the experience and the changes in DNA methylation.
@@ -62,7 +62,7 @@ Scientists have developed technologies that can measure these marks across the w
 The first step is to take samples, usually from blood, although there are new studies using saliva samples. However, blood is made up of a number of different cells, so that when we study the methylation of the DNA from blood, we’re studying the methylation of thousands of cells that don’t have the same marks.
 Thus, this is what we study: the average methylation level across all the DNA molecules in our blood. Imagine that we look at the same position in 100 different molecules of DNA. There are 80 of them with the epigenetic mark and 20 without. The result would be that we found 80% of methylation for that place. Instead of a yes-or-no answer, we now have a quantitative measurement.
 
-![From the epigenetic mark to the number](images/figure2.jpeg){width=85% fig-align="center"}
+![From the epigenetic mark to the number](images/methylation.png){width=85% fig-align="center"}
 
 Now imagine measuring thousands of these positions and comparing their methylation levels between people with and without a particular disease. This is how we can identify differences. And what do these differences mean for our biology?
 
@@ -72,7 +72,7 @@ Having a DNA methylation mark on your DNA can change its structure, making certa
 In other words, depending on the location of methylation in relation to the genes, DNA methylation could facilitate or inhibit their expression.
 There is no better example for discussing the connection between epigenetics and diseases than smoking and lung cancer. It is well known that smoking leads to the alterations of DNA methylation in many places within our genome. One of the most studied gene is *AHRR*, responsible for the response to environmental chemicals, in which low methylation level was observed among smokers that have also been associated with lung cancer risk.
 
-![Study design](images/figure3.jpeg){width=85% fig-align="center"}
+![Study design](images/twins.png){width=85% fig-align="center"}
 
 The good news is that some of the epigenetic alterations caused by smoking can disappear partially when people quit smoking.
 
