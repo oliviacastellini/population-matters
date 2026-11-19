@@ -1,6 +1,7 @@
-
 project:
   type: website
+  resources:
+    - viewer/**
 
 website:
   title: "Olivia Castellini | Science and Stories"
@@ -10,7 +11,7 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Stories"
+      - text: "Blog"
         href: stories.qmd
       - text: "Projects"
         href: projects.qmd
@@ -28,3 +29,6 @@ format:
     theme: minty
     css: styles.css
     toc: true
+    include-in-header:
+      - text: |
+          <script src="/language.js" defer></script>

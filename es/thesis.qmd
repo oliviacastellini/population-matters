@@ -1,0 +1,28 @@
+---
+title: "Descifrando el lupus"
+page-layout: full
+toc: false
+lang: es
+---
+
+::: {.about-section}
+
+<span class="eyebrow">INVESTIGACIÓN DOCTORAL · DIVULGACIÓN CIENTÍFICA</span>
+
+# Descifrando el lupus: cuando la genética no lo explica todo
+
+Mi tesis doctoral contada sin tecnicismos (o casi). Un folleto ilustrado sobre el lupus, la genética, la epigenética y los principales resultados de mi investigación.
+
+:::
+
+<iframe
+  src="../viewer/index.html"
+  title="Descifrando el lupus"
+  style="display:block; width:100%; height:880px; border:0;">
+</iframe>
+
+::: {.about-section}
+
+*Olivia Castellini Pérez · 2025 · CC BY-NC-ND 4.0. Algunas ilustraciones se crearon con BioRender; consulta los créditos del folleto.*
+
+:::

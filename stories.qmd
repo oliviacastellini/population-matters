@@ -1,4 +1,18 @@
+
 ---
-title: "Science stories"
-lang: en
+title: "Blog"
+page-layout: full
+
+listing:
+  contents: "posts/*/index.qmd"
+  type: grid
+  sort: "date desc"
+  image-height: 200px
+  grid-columns: 3
+  fields: [image, title, description, date]
 ---
+
+## Latest stories
+
+::: {#listing}
+:::

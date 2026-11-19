@@ -1,0 +1,18 @@
+website:
+
+  navbar:
+    left:
+      - text: "Inicio"
+        href: es/index.qmd
+      - text: "Blog"
+        href: es/stories.qmd
+      - text: "Proyectos"
+        href: es/projects.qmd
+      - text: "Sobre mí"
+        href: es/about.qmd
+
+    right:
+      - text: "EN"
+        href: index.qmd
+      - text: "ES"
+        href: es/index.qmd
