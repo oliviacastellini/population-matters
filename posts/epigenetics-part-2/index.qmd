@@ -38,7 +38,7 @@ Their DNA is the same, but their interaction with the world is completely differ
 **The same DNA but two very different stories**
 
 Twin studies have been used in scientific research since the 19th century. And, as is often the case with things that have a long history, not always for the right reasons.
-Long before modern science, twins had already fascinated humanity. They appeared in mythology, religion and folklore, sometimes portrayed as heroes or gods, and other times as monsters. But before we get too far away from what concerns us in this chapter, I’ll leave you with an interesting essay if you want to explore this further: A History of Twins in Science, by William Viney, published by Princeton University Press in 2024.
+Long before modern science, twins had already fascinated humanity. They appeared in mythology, religion and folklore, sometimes portrayed as heroes or gods, and other times as monsters. But before we get too far away from what concerns us in this chapter, I’ll leave you with an interesting essay if you want to explore this further: [“A history of twins in science”](https://press.princeton.edu/ideas/a-history-of-twins-in-science?srsltid=AYCX9vKASoYoI7epF96_wFZhqtvWg4zvPQ3p1mR5C8qEJz56HCx2JQNT), by William Viney, published by Princeton University Press in 2024.
 One of the earliest modern scientific studies of twins dates back to the 1870s, when Francis Galton, a British scientist and eugenicist, used twins to investigate whether heredity or environment had a greater influence on human characteristics. His conclusions strongly favoured genetics, introducing what you may have heard described as the **nature versus nurture** debate, a question that remains central to genetics, epidemiology, and many other research fields.
 But there’s a darker side to this history. Galton’s work was closely connected to eugenics, and ideas about inherited human differences were later used to justify discrimination, exclusion, and even dehumanisation. More recently, twins researchers have had to confront this legacy and rethink not only how twin studies are conducted, but also how their findings are interpreted.
 
@@ -56,7 +56,7 @@ So far, we know that everything can affects our biology and risk of diseases, th
 
 **How do we read and interpret an epigenetic mark?**
 
-If you remember from the first blog, DNA methylation marks are like tiny chemical marks attached to our DNA sequence. But remember, these marks aren’t attached just anywhere. DNA methylation usually occurs at cytosines (the letter C in our DNA), particularly when they’re followed by a G (CpG). This means that, at a particular position, the C in our DNA can either have this mark or not. *Presence or absence.*
+If you remember from the first [blog](../epigenetics-part-1/index.qmd), DNA methylation marks are like tiny chemical marks attached to our DNA sequence. But remember, these marks aren’t attached just anywhere. DNA methylation usually occurs at cytosines (the letter C in our DNA), particularly when they’re followed by a G (CpG). This means that, at a particular position, the C in our DNA can either have this mark or not. *Presence or absence.*
 
 Scientists have developed technologies that can measure these marks across the whole genome. So, how do we go from something that seems like a yes-or-no answer to a number that we can use in research?
 The first step is to take samples, usually from blood, although there are new studies using saliva samples. However, blood is made up of a number of different cells, so that when we study the methylation of the DNA from blood, we’re studying the methylation of thousands of cells that don’t have the same marks.
@@ -72,7 +72,7 @@ Having a DNA methylation mark on your DNA can change its structure, making certa
 In other words, depending on the location of methylation in relation to the genes, DNA methylation could facilitate or inhibit their expression.
 There is no better example for discussing the connection between epigenetics and diseases than smoking and lung cancer. It is well known that smoking leads to the alterations of DNA methylation in many places within our genome. One of the most studied gene is *AHRR*, responsible for the response to environmental chemicals, in which low methylation level was observed among smokers that have also been associated with lung cancer risk.
 
-![Study design](images/twins.png){width=85% fig-align="center"}
+![Study design](images/smoking.png){width=85% fig-align="center"}
 
 The good news is that some of the epigenetic alterations caused by smoking can disappear partially when people quit smoking.
 

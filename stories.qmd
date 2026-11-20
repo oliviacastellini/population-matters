@@ -1,18 +1,20 @@
-
 ---
 title: "Blog"
 page-layout: full
 
 listing:
-  contents: "posts/*/index.qmd"
+  id: stories-list
+  contents:
+    - "posts/*/index.qmd"
+    - "!es/posts/**"
   type: grid
   sort: "date desc"
   image-height: 200px
-  grid-columns: 3
+  grid-columns: 2
   fields: [image, title, description, date]
 ---
 
-## Latest stories
+## Latest blogs
 
-::: {#listing}
+::: {#stories-list}
 :::
