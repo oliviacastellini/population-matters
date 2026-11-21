@@ -35,3 +35,18 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+  const isSpanish = window.location.pathname
+    .split("/")
+    .includes("es");
+
+  if (isSpanish) {
+    const brand = document.querySelector(".navbar-brand");
+
+    if (brand) {
+      brand.innerHTML =
+        "Olivia Castellini-Pérez, PhD | Las poblaciones <em>importan</em>";
+    }
+  }
+});

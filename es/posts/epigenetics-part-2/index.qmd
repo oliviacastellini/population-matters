@@ -1,5 +1,5 @@
 ---
-title: "Tu ADN no es tu destino"
+title: "Tu ADN no determina tu destino"
 subtitle: "Parte 2 de una serie de 4 blogs sobre epigenética y salud"
 description: "¿Puede el mundo que nos rodea dejar marcas medibles en nuestro cuerpo?"
 date: "2026-11-16"

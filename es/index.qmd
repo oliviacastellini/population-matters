@@ -7,23 +7,29 @@ lang: es
 
 ::: {.hero-home}
 
+::: {.hero-content}
+
 <span class="eyebrow">EPIGENÉTICA · EPIDEMIOLOGÍA · COMUNICACIÓN CIENTÍFICA</span>
 
-# Explorando la ciencia de lo que nos hace humanos.
+# Ciencia en poblaciones. Comunicación para las personas.
 
-Más allá de los datos: historias, investigación y perspectivas sobre nuestra biología.
+Tendiendo puentes entre la investigación epidemiológica y la comunicación científica.
+Combino mi experiencia en estudios poblacionales, genética y epidemiología con 
+la comunicación científica para transformar resultados complejos sobre salud en información clara, 
+accesible y relevante para diferentes públicos.
 
-[Explora mis artículos](stories.qmd){.hero-button}
+[Explora mi trabajo](stories.qmd){.hero-button}
 
+:::
 :::
 
 ::: {.home-section}
 
-<span class="eyebrow">DESCUBRE Y EXPLORA</span>
+<span class="eyebrow">LEE Y DESCUBRE</span>
 
-## Historias de ciencia
+## Blog
 
-Explorando las preguntas, los descubrimientos y las historias detrás de nuestra biología, serie a serie.
+Serie de Blogs sobre investigación real, preguntas y/o debates alrededor de la epidemiología y el estudio de datos poblacionales. 
 
 :::
 

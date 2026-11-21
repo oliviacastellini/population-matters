@@ -4,7 +4,7 @@ project:
     - viewer/**
 
 website:
-  title: "Olivia Castellini | Science and Stories"
+  title: "Olivia Castellini-Pérez, PhD | Population <em>matters</em>"
 
   navbar:
     background: light

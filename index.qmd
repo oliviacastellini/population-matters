@@ -10,12 +10,14 @@ toc: false
 
 <span class="eyebrow">EPIGENETICS · EPIDEMIOLOGY · SCIENCE COMMUNICATION</span>
 
-# Exploring the science of being human.
+# Population-based science. People-focused communication.
 
-Beyond the data: stories, research and perspectives
-on the biology of who we are.
+Bridging epidemiological research and scientific communication. 
+I combine expertise in population-based research, genetics 
+and epidemiology with scientific communication to make complex health findings clear, 
+accessible and relevant to different audiences.
 
-[Explore my stories](stories.qmd){.hero-button}
+[See my work](stories.qmd){.hero-button}
 
 :::
 
@@ -24,24 +26,24 @@ on the biology of who we are.
 
 :::: {.home-section}
 
-<span class="eyebrow">DISCOVER & EXPLORE</span>
+<span class="eyebrow">READ & DISCOVER</span>
 
-## Science Stories
+## Blog
 
-Exploring the questions, discoveries and stories
-behind human biology, one series at a time.
+A collection of articles exploring published research, scientific questions 
+and perspectives on epidemiology and population-based studies.
 
 ::::: {.series-grid}
 
 :::::: {.series-card}
 
-[![Your DNA Is Not Your Fate](images/series/your-dna-is-not-your-fate.png){.series-image}](stories.qmd)
+[![](images/series/your-dna-is-not-your-fate.png){.series-image}](stories.qmd)
 
 ::::::: {.series-content}
 
 <span class="story-category">SERIES 01 · EPIGENETICS</span>
 
-### Your DNA Is Not Your Fate
+### Your DNA is not your fate
 
 What can epigenetics tell us about our health,
 our experiences and the biology that makes us human?
@@ -64,9 +66,9 @@ our experiences and the biology that makes us human?
 ## Research & Data
 
 Behind every scientific story, there are questions,
-data and discoveries.
+data and results.
 
-Explore my research projects in epigenetics,
+Explore my research in epigenetics,
 epidemiology and population health.
 
 [Explore my projects](projects.qmd){.text-link}

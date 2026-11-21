@@ -1,6 +1,6 @@
 
 ---
-title: "Sobre mí"
+title: "¡Hola!"
 toc: false
 page-layout: full
 lang: es
@@ -21,9 +21,13 @@ lang: es
 
 <span class="eyebrow">UN POCO SOBRE MÍ</span>
 
-# ¡Hola! Soy Olivia.
+# Soy Olivia.
 
-Soy investigadora biomédica, curiosa por entender qué nos hace humanos y apasionada por acercar la ciencia más allá de la comunidad científica.
+Soy investigadora, doctora en Genética y Epigenética, e ineresada por la epidemiología y la salud poblacional.
+
+En otras palabras, he pasado mucho tiempo intentando entender por qué somos diferentes, por qué algunas cosas afectan más que otras a nuestra salud y qué pueden contarnos miles de datos sobre todo ello (y qué no).
+
+*Spoiler: correlación no siempre implica causalidad.*
 
 :::
 
@@ -34,34 +38,36 @@ Soy investigadora biomédica, curiosa por entender qué nos hace humanos y apasi
 
 ::: {.about-section}
 
-## De la curiosidad a la investigación
+## Un poco más sobre mi investigación
 
-Mi trayectoria científica me ha llevado a explorar la genética, la epigenética y la epidemiología, tratando de comprender cómo nuestra biología, el entorno y nuestras experiencias interactúan para influir en nuestra salud.
+A lo largo de mi trayectoria he trabajado con grandes cohortes poblacionales, estudios observacionales y un buen número de bases de datos. 
+Las suficientes para saber que detrás de cada resultado estadísticamente significativo suele esconderse una pregunta mucho más interesante.
 
-Soy doctora en Biomedicina y mi investigación se ha centrado en comprender los mecanismos moleculares que intervienen en la salud y la enfermedad, desde las enfermedades autoinmunes hasta los estudios de grandes poblaciones.
-
-Pero, más allá de los métodos, los datos y los resultados, lo que siempre me ha interesado son las preguntas que nos hacemos, las personas que hay detrás de los datos y lo que realmente significan nuestros descubrimientos.
+Y, a veces, una explicación bastante complicada.
 
 :::
 
 ::: {.about-section}
 
-## Más allá de los datos
+## Y entonces, ¿por qué *Las poblaciones importan*?
 
-Creo que la ciencia es mucho más que obtener resultados o publicar artículos. Es curiosidad, cuestionar lo que creemos saber y conseguir que el conocimiento tenga sentido.
+Creo que la ciencia es mucho más que obtener resultados o publicar artículos. 
 
-Me interesa especialmente cómo comunicamos la ciencia, qué experiencias están representadas en la investigación y cómo podemos hacer que el conocimiento científico sea más accesible e inclusivo.
+Es conseguir que esos resultados tengan sentido, es saber cómo comunicamos la ciencia, quién está representada en la investigación y 
+cómo podemos hacer que todo esto sea accesible e inclusivo.
 
-Este espacio reúne todos esos intereses: ciencia, datos, historias y las preguntas que siguen despertando mi curiosidad.
+Este intenta reunir todos esos intereses: ciencia en poblaciones. Comunicación para las personas.
 
 :::
 
 ::: {.about-section .about-connect}
 
-## Hablemos
+## Conectemos
 
-Si te interesa la ciencia, la comunicación o simplemente tienes curiosidad por los temas que comparto, estaré encantada de conectar.
+Me encantaría saber de ti.
 
-[Encuéntrame en LinkedIn](https://www.linkedin.com/){.text-link}
+Hablemos (y dejemos los P-valores para otro momento).
+
+[Encuéntrame en LinkedIn](www.linkedin.com/in/olivia-castellini-pérez-phd-856231128){.text-link}
 
 :::

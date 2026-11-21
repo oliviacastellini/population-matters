@@ -10,6 +10,7 @@ Una selección de mis proyectos de investigación, análisis de datos y visualiz
 
 ### Descifrando el lupus: cuando la genética no lo explica todo
 
-Descubre mi investigación doctoral a través de un folleto divulgativo ilustrado.
+Mi investigación doctoral contada sin tecnicismo (o casi). 
+*Descubre el folleto ilustrativo*
 
-[Explorar mi tesis doctoral ilustrada](thesis.qmd)
+[Tesis doctoral ilustrada](thesis.qmd)

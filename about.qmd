@@ -1,6 +1,6 @@
 
 ---
-title: "About Me"
+title: "Hello there!"
 toc: false
 page-layout: full
 ---
@@ -20,9 +20,14 @@ page-layout: full
 
 <span class="eyebrow">A LITTLE ABOUT ME</span>
 
-# Hi, I'm Olivia.
+# I'm Olivia.
 
-I'm a biomedical researcher curious about what makes us human, and passionate about making science accessible beyond the scientific community.
+I'm a researcher with a PhD in genetics and epigenetics, and a particular interest in epidemiology and population health. 
+
+In other words, I have spent a lot of time trying to understand why people are different, why some things affect our health more than others, 
+and what thousands of data points can (and cannot) tell us about it.
+
+*Spoiler: correlation doesn't always mean causation.*
 
 :::
 
@@ -33,25 +38,26 @@ I'm a biomedical researcher curious about what makes us human, and passionate ab
 
 ::: {.about-section}
 
-## From curiosity to research
+## A little more about what I do
 
-My scientific journey has taken me through genetics, epigenetics and epidemiology, exploring how our biology, environment and experiences interact to shape human health.
+I've worked with large population cohorts, observational studies and plenty of datasets. 
+Enough to know that behind every statistically significant result, there's always a much more interesting question.
 
-I have a PhD in Biomedicine, and my research has focused on understanding the molecular mechanisms behind human health and disease, from autoimmune conditions to population-based studies.
-
-But beyond the methods, the datasets and the results, what has always interested me most are the questions we ask, the people behind the data and what our discoveries actually mean.
+And sometimes, a very complicated explanation.
 
 :::
 
 ::: {.about-section}
 
-## Beyond the data
+## So, why *Population Matters*?
 
-I believe science is more than producing results or publishing papers. It's about being curious, questioning what we know and making knowledge meaningful.
+Because I think good research deserves good communication.
 
-I'm particularly interested in how we communicate science, whose experiences are represented in research and how we can make scientific knowledge more accessible and inclusive.
+Not just prettier graphs or fewer technical words, but explanations of what the evidence actually tells us, including its uncertainties and limitations.
 
-This space brings together those interests: science, data, storytelling and the questions that keep me curious.
+That's what interests me most: connecting the people we study with the people we communicate science to.
+
+Population-based science. People-focused communication.
 
 :::
 
@@ -59,8 +65,10 @@ This space brings together those interests: science, data, storytelling and the 
 
 ## Let's connect
 
-Whether you're interested in science, communication or simply curious about the topics I explore, I'd love to connect.
+I'd love to hear about you.
 
-[Find me on LinkedIn](https://www.linkedin.com/){.text-link}
+Let's talk (and less p-values).
+
+[Find me on LinkedIn](www.linkedin.com/in/olivia-castellini-pérez-phd-856231128){.text-link}
 
 :::

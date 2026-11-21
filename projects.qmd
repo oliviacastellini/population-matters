@@ -3,10 +3,12 @@ title: "Projects"
 lang: en
 ---
 
-## Doctoral research
+## PhD research
 
 ### Decoding lupus: when genetics doesn't explain everything
 
-Explore my doctoral research through an illustrated booklet.
+My PhD explained without the jargon (well, almost).
+
+*Explore my doctoral research through an illustrated booklet - Spanish version only*
 
 [Explore my illustrated doctoral research booklet (Spanish)](es/thesis.qmd)
