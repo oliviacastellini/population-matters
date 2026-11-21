@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/es/stories.html",
+    "items": [
+      "/es/posts/epigenetics-part-2/index.html",
+      "/es/posts/epigenetics-part-1/index.html"
+    ]
+  },
+  {
+    "listing": "/stories.html",
+    "items": [
+      "/posts/epigenetics-part-2/index.html",
+      "/posts/epigenetics-part-1/index.html"
+    ]
+  }
+]
