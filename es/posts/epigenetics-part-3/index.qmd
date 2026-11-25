@@ -34,7 +34,7 @@ page-layout: article
 
 Previamente hemos visto cómo se estudia la metilación en investigación y la importancia para entender nuestra salud y los procesos que pueden derivar en desarrollar una enfermedad. Sin embargo, llegamos a preguntarnos: si las enfermedades afectan de manera diferente a cada persona, *¿existe representación suficiente de la población para intentar entender estos procesos?*
 
-Por ejemplo, supongamos que se llega a descubrir un biomarcador que permite predecir si una persona es susceptible a desarrollar una enfermedad. Después de estudiar a miles de personas se llega a la conclusión de que este biomarcador va a marcar una diferencia en las herramientas de diagnóstico y va a ser una innovación para poder implementarlo en la clínica. Parecen buenísimas noticias, pero y si ahora te digo que, esos miles de personas en las que se ha conllevado el estudio pertenecen a un mismo grupo que viven más o menos en lugares similares, del mismo sexo o con tendencia a un sexo concreto y de origen genético similar. *¿Te creerías que este biomarcador se pudiese usar globalmente?*
+Por ejemplo, supongamos que se llega a descubrir un biomarcador que permite predecir si una persona es susceptible a desarrollar una enfermedad. Después de estudiar a miles de personas se llega a la conclusión de que este biomarcador va a marcar una diferencia en las herramientas de diagnóstico y va a ser una innovación para poder implementarlo en la clínica. Parecen buenísimas noticias, pero, y si ahora te digo que, esos miles de personas en las que se ha conllevado el estudio, pertenecen a un mismo grupo que viven más o menos en lugares similares, del mismo sexo o con tendencia a un sexo concreto y de origen genético similar. *¿Te creerías que este biomarcador se pudiese usar globalmente?*
 
 Pues esto pasa mucho más de lo que parece y entender su relevancia es primordial. Déjame ponerte un ejemplo más claro que ha sido muy importante durante mi trayectoria. 
 
@@ -42,9 +42,9 @@ Pues esto pasa mucho más de lo que parece y entender su relevancia es primordia
 
 Hablemos del lupus eritematoso sistémico. Esta es una enfermedad autoinmune en la que ocurre una desregulación del sistema inmunitario atacando a nuestras propias células de nuestro organismo. Afecta a muchos tejidos y órganos como pueden ser la piel, articulaciones o riñones, entre otras. Pero hay algo más importante a considerar y es que afecta mayoritariamente a mujeres; nueve de cada 10 personas que tienen la enfermedad son mujeres. 
 
-Y no solo eso, además, también se ha visto que la prevalencia y severidad de la enfermedad depende del grupo poblacional que se esté estudiando. Un ejemplo de esto se refleja en un estudio reciente en Reino Unido, donde de 5,000 personas diagnosticadas con la enfermedad el 88% de ellas eran mujeres. Además, la mortalidad de la enfermedad se observó que era mayor en la población negra comparada con la blanca. 
+Y no solo eso, además, también se ha visto que la prevalencia y severidad de la enfermedad depende del grupo poblacional que se esté estudiando. Un ejemplo de esto se refleja en un estudio reciente en Reino Unido, donde de 5.000 personas diagnosticadas con la enfermedad, el 88% de ellas eran mujeres. Además, la mortalidad de la enfermedad se observó que era mayor en la población negra comparada con la blanca. 
 
-Entonces, *¿cuál es la razón de observar estas diferencias? ¿son diferencias genéticas? ¿son hormonas sexuales? ¿es el ambiente? ¿son las diferencias de acceso al sistema de salud? ¿es una combinación de varias o de todas?*
+Entonces, *¿cuál es la razón de observar estas diferencias? ¿son diferencias genéticas? ¿son hormonas sexuales? ¿es el ambiente? ¿son las diferencias de acceso al sistema sanitario? ¿es una combinación de varias o de todas?*
 
 Aquí está uno de los desafíos al estudiar enfermedades complejas, porque observar diferencias entre dos poblaciones no quiere decir que pertenecer a una u otra población es la causa de la misma. 
 
@@ -54,7 +54,7 @@ Pero antes de continuar, tenemos que entrar en un debate importante: *¿cómo se
 
 Ascendencia, etnicidad, ascendencia genética o raza. Todas parecen sinónimas, pero no lo son, de hecho, son muy dispares. Para empezar, las razas en el ser humano no existen como tal y menos para categorizar a los individuos. Por otro lado, es importante dejar claro que, aunque tengamos diferencias genéticas, estás no generan una división biológica entre nosotras. 
 
-La ascendencia genética, por ejemplo, indica cómo nuestra genética tiene influencia de los flujos migratorios y la mezcla de poblaciones. El concepto de raza es simplemente un constructo social basada en la historia y no tiene explicación científica. Sin embargo, usar el término racial para clasificar a las personas sí que tiene implicaciones en sus vidas y en su salud. 
+La ascendencia genética, por ejemplo, indica cómo nuestra genética tiene influencia de los flujos migratorios y la mezcla de poblaciones. El concepto de raza es simplemente un constructo social basado en la historia y no tiene explicación científica. Sin embargo, usar el término racial para clasificar a las personas sí que tiene implicaciones en sus vidas y en su salud. 
 
 ![La realidad de las clasificaciones poblacionales](images/populationsES.png){width=85% fig-align="center"}
 
@@ -62,18 +62,18 @@ En 2023, la Academia Nacional de Ciencias, Ingeniería y Medicina en Estados Uni
 
 Y podemos ir más allá. El informe destaca que incluso usar las clasificaciones comunes de ascendencia, así como las que se basan en clasificar según la procedencia geográfica, sigue creando una falsa sensación de que existen grupos genéticamente homogéneos de seres humanos.
 
-Para mí el mensaje está claro: no solo necesitamos mejores términos sino que también tenemos que cambiar la manera de pensar sobre las poblaciones humanas. 
+Para mí el mensaje está claro: **no solo necesitamos mejores términos sino que también tenemos que cambiar la manera de pensar sobre las poblaciones humanas.**
 
-¿Entonces qué sugieren? Este informe concluye entre muchas otras cosas que en investigación se debe de usar una clasificación en función de la pregunta que se quiere resolver, pero que además siempre se tiene que tener en cuenta los factores ambientales, sociales y comunitarios y evitar en la medida de lo posible asunciones sobre la genética poblacional. A esto se suma que ya sabemos que la genética no actual sola, no quiere decir que lo que se descubra sobre el lupus en una población de una región se pueda extrapolar mundialmente. La manera individual en la que todo esto se estudia puede cambiar la interpretación de los resultados. 
+¿Entonces qué sugieren? Este informe concluye, entre muchas otras cosas, que en investigación se debe de usar una clasificación en función de la pregunta que se quiere resolver, pero que además siempre se tiene que tener en cuenta los factores ambientales, sociales y comunitarios y evitar en la medida de lo posible asunciones sobre la genética poblacional. A esto se suma, que ya sabemos que la genética no actúa sola; no quiere decir que lo que se descubra sobre el lupus en una población de una región se pueda extrapolar mundialmente. La manera individual en la que todo esto se estudia puede cambiar la interpretación de los resultados. 
 
 ### Mucho más allá que una simple etiqueta
-En este punto, quizás ya no sorprende leer que agrupar a la gente en categorías no captura toda la diversidad. Seguro que has escuchado alguna vez la expresión de que el cáncer no es una única enfermedad y que hay tantos cánceres como pacientes. Pues esto no se aplica solo a esta patología, sino que se puede extender a muchas otras. Aquí introducimos el concepto de **heterogeneidad**. 
+En este punto, quizás ya no sorprende leer que agrupar a la gente en categorías no captura toda la diversidad. Seguro que has escuchado alguna vez la expresión de que *el cáncer no es una única enfermedad y que hay tantos cánceres como pacientes*. Pues esto no se aplica solo a esta patología, sino que se puede extender a muchas otras. Aquí introducimos el concepto de **heterogeneidad**. 
 
-Si volvemos a los pacientes de lupus. Dos personas diagnosticadas con esta enfermedad ya hemos mencionado que presentan síntomas muy diferentes, y no solo eso sino que pueden responder o no al mismo tratamiento. Un paciente puede presentar erupciones cutáneas mientras otro presenta lesiones renales. Y por supuesto, esto no se trata solo de síntomas clínicos, detrás de cada proceso diferencial existe un proceso molecular diferente. 
+Si volvemos a los pacientes de lupus. Dos personas diagnosticadas con esta enfermedad ya hemos mencionado que, presentan síntomas muy diferentes, y no solo eso, sino que pueden responder o no al mismo tratamiento. Un paciente puede presentar erupciones cutáneas mientras otro presenta lesiones renales. Y por supuesto, esto no se trata solo de síntomas clínicos, detrás de cada proceso diferencial existe un proceso molecular diferente. 
 
 Y una vez más, *¿podemos olvidarnos de las etiquetas y mirar más allá sin sesgos?*
 
-En 2021, Barturen et al. publicaron un trabajo acerca de la heterogeneidad de las enfermedades autoinmunes donde se reclasifican 7 enfermedades autoinmunes, inlcuyendo lupus, artritis reumatoide, esclerosis sistémica y el síndrome de Sjögrens, en 3 grupos en relación con la enfermedad. Para ello tuvieron en cuenta diferentes procesos moleculares y usaron diferentes tipos de datos incluyendo metilación del ADN. Lo relevante de aquí es destacar que pacientes diagnosticados con lupus por ejemplo pueden pertenecer a grupos diferentes y por tanto ser mas similares molecularmente a pacientes de otras enfermedades que de la propia.  
+En 2021, *Barturen et al.* publicaron un trabajo acerca de la heterogeneidad de las enfermedades autoinmunes donde se reclasifican 7 enfermedades autoinmunes, inlcuyendo lupus, artritis reumatoide, esclerosis sistémica y el síndrome de Sjögrens, en 3 grupos en relación con la enfermedad. Para ello, tuvieron en cuenta diferentes procesos moleculares y usaron diferentes tipos de datos incluyendo metilación del ADN. Lo relevante de aquí es destacar que, pacientes diagnosticados con lupus, por ejemplo, pueden pertenecer a grupos diferentes y por tanto ser mas similares molecularmente a pacientes de otras enfermedades que de la propia.  
 
 ![Heterogeneidad molecular de enfermedades autoinmunes](images/molecularesES.png){width=85% fig-align="center"}
 
@@ -83,13 +83,13 @@ En otras palabras, tener una misma condición no se traduce necesariamente en te
 
 Vamos a situarnos de nuevo en las diferentes ascendencias genéticas, pero ahora añadimos una capa extra de heterogeneidad molecular y de las enfermedades complejas. *¿Cuánto podemos estar perdiendo si solo estudiamos a una parte de la población mundial?*
 
-Existen muchas variantes genéticas1 que afectan a la susceptibilidad de una enfermedad, la regulación de la expresión de los genes e incluso los patrones de la metilación del ADN. Por ejemplo, durante mi doctorado publicamos un trabajo donde se observaba que los pacientes de lupus tienen marcas de metilación diferenciales entre los diferentes grupos moleculares de Barturen et al. Es decir, pacientes de un grupo tenían marcas diferentes a los de otro. Y más interesante todavía muchas de estas marcas estaban determinadas genéticamente y esta asociación con la genética también dependía del grupo molecular de los pacientes. 
+Existen muchas variantes genéticas^1^ que afectan a la susceptibilidad de una enfermedad, la regulación de la expresión de los genes e incluso los patrones de la metilación del ADN. Por ejemplo, durante mi doctorado publicamos un trabajo donde se observaba que los pacientes de lupus tienen marcas de metilación diferenciales entre los diferentes grupos moleculares de *Barturen et al.* Es decir, pacientes de un grupo tenían marcas diferentes a los de otro. Y más interesante todavía, muchas de estas marcas estaban determinadas genéticamente y esta asociación con la genética también dependía del grupo molecular de los pacientes. 
 
 ## Investigación traslacional: ¿quién se beneficia de ello?
 
 Y todo esto no solo se queda dentro de la academia y la investigación. Muchos de los estudios genéticos más relevantes a lo largo de la historia han sido con poblaciones concretas. Y esto tiene implicación en la traslación a la clínica. 
 
-Un ejemplo pueden ser las puntuaciones de riesgo poligénico. Parece un término muy complicado, pero son simplemente herramientas que proporcionan información sobre posibles marcadores genéticos que cuantifican la predisposición individual a desarrollar una determinada enfermedad. Y lamentablemente muchos de estos marcadores se han identificado en europeos y se sabe que no se puede aplicar tan exitosamente a otros grupos. 
+Un ejemplo pueden ser las puntuaciones de riesgo poligénico. Parece un término muy complicado, pero son simplemente herramientas que proporcionan información sobre posibles marcadores genéticos que cuantifican la predisposición individual a desarrollar una determinada enfermedad. Y lamentablemente, muchos de estos marcadores se han identificado en europeos y se sabe que no se puede aplicar tan exitosamente a otros grupos. 
 
 ![Diseño del estudio de las puntuaciones de riesgo poligénico](images/PRSES.png){width=85% fig-align="center"}
 
@@ -97,12 +97,12 @@ Y esto no solo se aplica a la genética, de la misma manera puede afectar a la e
 
 Por todo esto, tener en cuenta la diversidad y la inclusión son importantes en genómica y en epidemiología. Pero no todo son malas noticias, esto poco a poco está cambiando y ya existen esfuerzos que buscan hacer una investigación más inclusiva
 
-Para acabar como de costumbre, dejamos otra reflexión abierta para la siguiente. Algo que no he mencionado de la prevalencia de todas estas enfermedades complejas es que aumenta con la edad, y todos envejecemos. Biológicamente hablando, **¿envejecemos a la misma velocidad? ¿Cómo de importante es esto en el desarrollo de una enfermedad? ¿Y que nos puede decir la epigenética de ello?**
+Para acabar, como de costumbre, dejamos otra reflexión abierta para el siguiente blog. Algo que no he mencionado de la prevalencia de todas estas enfermedades complejas, es, que aumenta con la edad, y todos envejecemos. Biológicamente hablando, **¿envejecemos a la misma velocidad? ¿Cómo de importante es esto en el desarrollo de una enfermedad? ¿Y que nos puede decir la epigenética de ello?**
 
 *Aquí es donde continúa la historia.*
 
 ##### Note
-1.	*Cuando hablamos de variantes genéticas son pequeñas variaciones entre individuos en algunas de las letras de nuestro ADN. Todas tenemos diferentes variaciones, muchas veces son inofensivas pero otras pueden estar implicadas en enfermedades y aumentar por tanto tu predisposición a ellas.*
+1.	*Cuando hablamos de variantes genéticas son pequeñas variaciones entre individuos en algunas de las letras de nuestro ADN. Todas tenemos diferentes variaciones, muchas veces son inofensivas pero otras pueden estar implicadas en enfermedades y aumentar, por tanto, tu predisposición a ellas.*
 
 #### Referencias: 
 Patel S, Russell MD, Bechman K, et al. The incidence, mortality and complications of systemic lupus erythematosus: a population-level cohort study from 2012 to 2023. Rheumatology (Oxford). 2026 May 5;65(5):keag206. doi: 10.1093/rheumatology/keag206. PMID: 42001214; PMCID: PMC13183668.
