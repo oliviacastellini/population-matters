@@ -7,6 +7,7 @@ listing:
   contents:
     - posts/epigenetics-part-1/index.qmd
     - posts/epigenetics-part-2/index.qmd
+    - posts/epigenetics-part-3/index.qmd
   type: grid
   sort: "date desc"
   image-height: 200px
