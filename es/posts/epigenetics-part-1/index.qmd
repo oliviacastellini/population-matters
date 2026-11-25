@@ -1,6 +1,6 @@
 ---
 title: "Tu ADN no determina tu destino"
-subtitle: "Parte 1 de una serie de 4 blogs sobre epigenética y salud"
+subtitle: "Parte uno de una serie de cuatro blogs sobre epigenética y salud"
 description: "Somos más de lo que dice el ADN"
 date: "2026-11-09"
 categories:
